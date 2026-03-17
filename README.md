@@ -1,4 +1,4 @@
-#Two-Class & Multi-Class Classification
+# Two-Class & Multi-Class Classification
 
 This project explores basic classification methods and how they extend from binary (two-class) problems to multi-class settings.
 The focus is on understanding how these models behave by implementing them and visualizing results.
